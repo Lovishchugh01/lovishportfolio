@@ -291,12 +291,12 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
         name: "css",
         color: "pink-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
       },
       {
         name: "firebase",
