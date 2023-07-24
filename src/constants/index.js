@@ -178,6 +178,19 @@ const experiences = [
   //   ],
   // },
   {
+    title: "React Native Developer",
+    company_name: "enAct eServices Pvt Ltd.",
+    icon: enact,
+    iconBg: "#383E56",
+    date: "Feb 2023 - Present",
+    points: [
+      "I specialize in building cross-platform mobile applications using JavaScript and React.",
+      "I have a strong understanding of the core concepts of React Native and how to use them to build scalable, performant, and intuitive mobile apps.",
+      "I'm well-versed in various libraries, tools, and frameworks commonly used in React Native development, such as Redux, React Navigation, and Expo.",
+      "I've worked on a number of projects, including a Food Delivery application, a parcel Delivery application, and a Baby sitting application."
+    ],
+  },
+  {
     title: "Web Developer",
     company_name: "JD Web Services",
     icon: jd,
@@ -192,19 +205,7 @@ const experiences = [
       "I'm a detail-oriented developer who takes pride in delivering high-quality work, and I'm always eager to learn new technologies and approaches to improve my skills."
     ],
   },
-  {
-    title: "React Native Developer",
-    company_name: "enAct eServices Pvt Ltd.",
-    icon: enact,
-    iconBg: "#383E56",
-    date: "Feb 2023 - Present",
-    points: [
-      "I specialize in building cross-platform mobile applications using JavaScript and React.",
-      "I have a strong understanding of the core concepts of React Native and how to use them to build scalable, performant, and intuitive mobile apps.",
-      "I'm well-versed in various libraries, tools, and frameworks commonly used in React Native development, such as Redux, React Navigation, and Expo.",
-      "I've worked on a number of projects, including a Food Delivery application, a parcel Delivery application, and a Baby sitting application."
-    ],
-  },
+  
 ];
 
 const testimonials = [
