@@ -30,6 +30,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import enact from "./company/enact.png";
 import jd from "./company/jd.png";
+import zestgeek from "./company/zestgeek.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -37,6 +38,10 @@ import tripguide from "./tripguide.png";
 import hometown from "./hometown.png";
 import zwigato from "./zwigato.jpg";
 import babysitting from "./babysitting.png";
+import watafact from "./watafact.png";
+import friendzy from "./friendzy.jpg";
+import medidashboard from "./medi-dashboard.webp";
+import zestcommerce from "./zestcommerce.jpg";
 
 
 export {
@@ -69,11 +74,16 @@ export {
   tesla,
   enact,
   jd,
+  zestgeek,
   carrent,
   jobit,
   tripguide,
   hometown,
   zwigato,
   babysitting,
-  firebase
+  firebase,
+  watafact,
+  friendzy,
+  medidashboard,
+  zestcommerce
 };
