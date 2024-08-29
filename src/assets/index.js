@@ -7,7 +7,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import lovish from "./Lovish.png";
-import fav from "./lovish-fav.png";
+import fav from "./Lovish-fav.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
